@@ -1,0 +1,6 @@
+sentence-transformers==6.3.0
+faiss-cpu==1.16.0
+numpy==2.5.5
+pypdf==7.1.0
+groq==1.7.0
+python-dotenv==1.2.4
